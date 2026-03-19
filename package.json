@@ -1,0 +1,9 @@
+{
+  "name": "newsflow-backend",
+  "version": "1.0.0",
+  "description": "NewsFlow API",
+  "main": "api/articles.js",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
